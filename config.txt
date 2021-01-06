@@ -1,0 +1,6 @@
+socketEndpoint = ''
+Username = ""
+Password = ""
+AccountID = ""
+
+USDT_CAD_ID = ""
